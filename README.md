@@ -8,7 +8,6 @@
 
 
 
-
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
@@ -24,8 +23,8 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=moqiuliya&repo=mp4To4K-rust)](https://github.com/moqiuliya/mp4To4K-rust)
-<br><br><br>
+
+
 
 ### Github 活跃度
 
